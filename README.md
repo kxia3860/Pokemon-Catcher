@@ -7,4 +7,11 @@ This game "Pokemon Catcher" is about a character named Ash who is trying to coll
 </p>
 
 <h3>Screenshots</h3>
+<img scr="https://github.com/kxia3860/Pokemon-Catcher/blob/master/PokemonStartUp.PNG" width="200px">
+<img scr="https://github.com/kxia3860/Pokemon-Catcher/blob/master/PokemonGamePic.PNG" width="200px">
+<img scr="https://github.com/kxia3860/Pokemon-Catcher/blob/master/PokemonEndScreen.PNG" width="200px">
 
+<h3>Resources</h3>
+<a href="https://www.python.org/downloads/"> Python Download</a><br>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> Pygame Wheel File</a><br>
+<a href="https://youtu.be/_GikMdhAhv0"> Guide to Download</a>
